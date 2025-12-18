@@ -1,0 +1,5 @@
+{
+  "name": "CV  Analyzer",
+  "description": "A professional, privacy-focused CV analysis tool powered by your own Gemini API key. Analyze PDFs for ATS compatibility, skills gaps, and SWOT analysis.",
+  "requestFramePermissions": []
+}

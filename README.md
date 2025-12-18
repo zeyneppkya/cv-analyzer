@@ -7,6 +7,11 @@ Bu proje, yapay zeka destekli bir **CV / Özgeçmiş analiz uygulamasıdır**. K
 Amaç; adaylara CV'lerini daha **okunaklı, etkili ve işe alım sistemleriyle uyumlu** hale getirmeleri için somut geri bildirimler sunmaktır.
 
 ---
+🌐 Live Demo: https://cvanalyzersite.netlify.app/
+ Demo versiyonunda kullanıcı kendi API anahtarını girerek analiz yapabilir.
+
+
+
 
 ## 🚀 Özellikler
 

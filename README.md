@@ -29,6 +29,30 @@ Amaç; adaylara CV'lerini daha **okunaklı, etkili ve işe alım sistemleriyle u
 
 ---
 
+* **API key repoda tutulmaz** – kullanıcıdan çalışma anında alınır
+![resim](screenshots/2.png)
+
+---
+* CV formatı ve okunabilirlik analizi- ATS uyumluluk skoru (0–100)
+![resim](screenshots/3.png)
+
+---
+* Güçlü ve zayıf yönlerin tespiti (SWOT)
+![resim](screenshots/5.png)
+
+---
+* Eksik anahtar kelimelerin belirlenmesi
+![resim](screenshots/4.png)
+
+---
+* CV maddeleri için yeniden yazılabilir öneriler
+![resim](screenshots/6.png)
+
+
+
+
+
+---
 ## 🧠 Kullanılan Teknolojiler
 
 * React + TypeScript

@@ -5,7 +5,8 @@
 Bu proje, yapay zeka destekli bir **CV / Özgeçmiş analiz uygulamasıdır**. Kullanıcıdan alınan API anahtarı ile çalışır ve CV'leri modern ATS (Applicant Tracking System) kriterlerine göre değerlendirir.
 
 Amaç; adaylara CV'lerini daha **okunaklı, etkili ve işe alım sistemleriyle uyumlu** hale getirmeleri için somut geri bildirimler sunmaktır.
-(screenshots/1.png)
+
+![resim](screenshots/1.png)
 
 
 ---

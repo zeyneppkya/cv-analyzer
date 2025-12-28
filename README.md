@@ -5,7 +5,7 @@
 Bu proje, yapay zeka destekli bir **CV / Özgeçmiş analiz uygulamasıdır**. Kullanıcıdan alınan API anahtarı ile çalışır ve CV'leri modern ATS (Applicant Tracking System) kriterlerine göre değerlendirir.
 
 Amaç; adaylara CV'lerini daha **okunaklı, etkili ve işe alım sistemleriyle uyumlu** hale getirmeleri için somut geri bildirimler sunmaktır.
-Ekran Görüntüsü (40).png
+
 
 ---
 🌐 Live Demo: https://cvanalyzersite.netlify.app/

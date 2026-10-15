@@ -10,10 +10,7 @@ Amaç; adaylara CV'lerini daha **okunaklı, etkili ve işe alım sistemleriyle u
 
 
 ---
-🌐 Live Demo: https://cvanalyzersite.netlify.app/
 
-
- Demo versiyonunda kullanıcı kendi API anahtarını girerek analiz yapabilir.
 
 
 
